@@ -1,4 +1,4 @@
-# Data 
+# Data
 data/raw/
 data/processed/
 *.csv
@@ -16,6 +16,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+notebooks/catboost_info/
 
 # VS Code
 .vscode/
@@ -23,3 +24,4 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
