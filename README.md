@@ -5,6 +5,11 @@ A complete, leakage-safe machine learning pipeline, from raw tables to a Kaggle 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Public%20LB%2081%2C298-20BEFF.svg)](https://www.kaggle.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?labelColor=555)](https://catboost.ai/)
+![CV RMSE](https://img.shields.io/badge/CV%20RMSE-~102.9K-E0568A)
 
 ---
 
