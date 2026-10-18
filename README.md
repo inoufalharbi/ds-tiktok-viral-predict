@@ -1,6 +1,6 @@
 # TikTok Video Engagement Prediction
 
-An end-to-end machine learning solution for the WeCloudData Data Science Bootcamp in-class competition.
+A complete, leakage-safe machine learning pipeline, from raw tables to a Kaggle submission, built for the WeCloudData Data Science Bootcamp in-class competition.
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
